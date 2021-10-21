@@ -1,3 +1,3 @@
-This is the repository of Mathias Bigler
+This is the repository of Mathias Bigler - bigler1205@gmail.com
 
 This edit is from the readme-edits branch...
